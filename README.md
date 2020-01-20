@@ -22,3 +22,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+# zhihuDaily-electron
+this is a client created by electron &amp; vueJs
